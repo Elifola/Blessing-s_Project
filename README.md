@@ -8,19 +8,20 @@
 Road accident data: The primary dataset used for this analysis is the "Roadaccidentdata.xls" file, containing detailed information about categories of Accident occurence in the United Kingdom.
 
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-[Road Accident Analysis Dashboard](Road Accident Analysis Dashboard.jpg)
 
----
-
-## 📌 Project Overview
-
-This project presents a comprehensive analysis of road accident data using Microsoft Power BI. The dashboard enables stakeholders, including traffic authorities, public health professionals, and policymakers, to explore accident patterns, identify high-risk conditions, and make data-driven decisions to improve road safety.
+Road Accident Analysis Dashboard<img width="869" height="488" alt="Road Accident Analysis Dashboard" src="https://github.com/user-attachments/assets/3be25816-fa14-4db4-8418-243721c4b781" />
 
 ---
 
-## 🎯 Objectives
+## Project Overview
+
+This project presents a comprehensive analysis of road accident data using Microsoft Power BI. The dashboard enables stakeholders, including traffic authorities and policymakers, to explore accident patterns, identify high-risk conditions, and make data-driven decisions to improve road safety.
+
+---
+
+## Objectives
 
 - Track total casualties, accidents, and severity levels at a glance
 - Identify seasonal and monthly accident trends
@@ -30,7 +31,7 @@ This project presents a comprehensive analysis of road accident data using Micro
 
 ---
 
-## 📊 Key Metrics (KPIs)
+## Key Metrics (KPIs)
 
 | Metric | Value |
 |---|---|
@@ -42,7 +43,7 @@ This project presents a comprehensive analysis of road accident data using Micro
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Peak accident period:** Casualties peaked around **October–November**, indicating higher road risk during the autumn months. This may be linked to reduced daylight, wet roads, and increased traffic.
 
@@ -56,7 +57,7 @@ This project presents a comprehensive analysis of road accident data using Micro
 
 ---
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 
 | Visual | Description |
 |---|---|
@@ -70,7 +71,7 @@ This project presents a comprehensive analysis of road accident data using Micro
 
 ---
 
-## 🔧 Filters & Interactivity
+## Filters & Interactivity
 
 The dashboard includes two dynamic slicers:
 - **Year** – Filter data by specific year
@@ -80,7 +81,7 @@ All visuals update dynamically based on selected filter values.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -90,17 +91,16 @@ All visuals update dynamically based on selected filter values.
 | Microsoft Excel /| Data source |Dataset
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and transformation using Power Query
 - DAX measure creation for dynamic KPIs
 - Interactive dashboard design with cross-filtering
 - Data storytelling and insight communication
-- Public health data analysis
-
 ---
+
 ##  Recommendation
--Seasonal Safety Campaigns:  Authorities should launch targeted road safety campaigns from September to counter the casualty spike recorded in October–November.
+- Seasonal Safety Campaigns:  Authorities should launch targeted road safety campaigns from September to counter the casualty spike recorded in October–November.
 - Address Driver Behaviour in Fine Weather: Since 330K casualties occurred in fine weather, behavioural change campaigns targeting speeding and distracted driving should be prioritised over weather-focused interventions.
 - Prioritise Single Carriageway Road Safety: Urgent infrastructure audits and physical improvements, including crash barriers, rumble strips, and better lighting, should be implemented on single-carriageway roads, which recorded the highest casualties at 310K.
 - Targeted Interventions in Rural Areas: Greater road safety funding, improved emergency response capacity, and rural-specific policies should be directed toward rural areas, which accounted for 61.2% of all casualties.
@@ -108,7 +108,7 @@ All visuals update dynamically based on selected filter values.
 
 ---
 
-## 👤 Author
+## Author
 
 **Blessing Oyewale**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/blessing-oyewale/)
